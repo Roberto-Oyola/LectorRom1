@@ -4,7 +4,7 @@
 
 int main()
 {
-    RomReader rom;
+    /*RomReader rom;
     rom.loadTestData();
 
     std::cout << "=== ROM Reader ===\n\n";
@@ -14,6 +14,15 @@ int main()
     std::cout << "\nByte 1: "
         << static_cast<int>(rom.readByte(1))
         << "\n";
+
+    return 0;*/
+
+    RomReader rom;
+
+    if (rom.LoadRom("C:\\Users\\user\\Documents\\ROMS_PRUEBAS\\prueba.gba"))
+    {
+        rom.PrintInfo();
+    }
 
     return 0;
 }
