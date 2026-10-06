@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+    </ClCompile>
+    <ClCompile Include="Rom\RomReader.cpp">
+    </ClCompile>
+    <ClCompile Include="Gba\GbaHeader.cpp" />
+    <ClCompile Include="Arm\ArmDecoder.cpp" />
+    <ClCompile Include="Arm\ArmDisassembler.cpp" />
+    <ClCompile Include="Arm\Instruction.cpp" />
+    <ClCompile Include="Arm\ArmFlowAnalyzer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Rom\RomReader.h">
+    </ClInclude>
+    <ClInclude Include="Gba\GbaHeader.h" />
+    <ClInclude Include="Arm\ArmDecoder.h" />
+    <ClInclude Include="Arm\ArmDisassembler.h" />
+    <ClInclude Include="Arm\Instruction.h" />
+    <ClInclude Include="Arm\ArmFlowAnalyzer.h" />
+  </ItemGroup>
+</Project>

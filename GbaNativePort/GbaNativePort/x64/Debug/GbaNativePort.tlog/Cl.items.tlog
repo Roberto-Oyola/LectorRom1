@@ -1,0 +1,7 @@
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\Arm\ArmDecoder.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\ArmDecoder.obj
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\Arm\ArmDisassembler.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\ArmDisassembler.obj
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\Arm\ArmFlowAnalyzer.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\ArmFlowAnalyzer.obj
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\Gba\GbaHeader.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\GbaHeader.obj
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\Arm\Instruction.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\Instruction.obj
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\main.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\main.obj
+C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\Rom\RomReader.cpp;C:\Users\vm-royola\Documents\git\LectorRom1\GbaNativePort\GbaNativePort\x64\Debug\RomReader.obj
